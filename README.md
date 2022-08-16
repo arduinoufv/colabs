@@ -38,6 +38,7 @@ Collection of Colabs example to teach Digital Logic and Computer Architecture
 
 * [Grey Counter and Hamming Distance (portuguese)](https://colab.research.google.com/drive/1YPDXCiWPsfIa5uy3HP0gcc5-54Yi8poW?usp=sharing)
 * [FlipFlops and Counter](https://colab.research.google.com/drive/1uZB5pL3PlbXLcxRd33Uca1VDc2gzjj6N?usp=sharing)
+* [FSM = gates + flipflop - 4 examples](https://colab.research.google.com/drive/1G11txN9_e3oAF65-_vhwYeom3wibBzap?usp=sharing)
 * [Lab memories, fliflops and counters](https://colab.research.google.com/drive/1tVu9J9vlqq4URAM-mR84AsztjhefAyTl?usp=sharing)
 
 
