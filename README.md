@@ -18,7 +18,9 @@ Collection of Colabs example to teach Digital Logic and Computer Architecture
   pages={1--5},
   year={2021},
   organization={IEEE}
-}```: [Logic Synthesis, Verilog, MIPS pipeline in Verilog, GPU and CUDA, Valgrind and Gem5.](https://github.com/lesc-ufv/cad4u)
+}
+```
+: [Logic Synthesis, Verilog, MIPS pipeline in Verilog, GPU and CUDA, Valgrind and Gem5.](https://github.com/lesc-ufv/cad4u)
 
 
 # Logic Design in Verilog
