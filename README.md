@@ -34,6 +34,11 @@ Collection of Colabs example to teach Digital Logic and Computer Architecture
     * Latch, FlipFlop, Contadores e Shift, Memorias e Circuitos com memorias
 
 
+# Sequential Circuits
+
+* [Grey Counter and Hamming Distance (portuguese)](https://colab.research.google.com/drive/1YPDXCiWPsfIa5uy3HP0gcc5-54Yi8poW?usp=sharing)
+* [FlipFlops and Counter](https://colab.research.google.com/drive/1uZB5pL3PlbXLcxRd33Uca1VDc2gzjj6N?usp=sharing)
+* [Lab memories, fliflops and counters](https://colab.research.google.com/drive/1tVu9J9vlqq4URAM-mR84AsztjhefAyTl?usp=sharing)
 
 
 # RISC Processors
