@@ -27,7 +27,11 @@ Collection of Colabs example to teach Digital Logic and Computer Architecture
 
 [Introduction to Digital Logic and Verilog (in portuguese)](https://github.com/arduinoufv/inf150/tree/master/Colab): 
 
-    Sistemas de Numeraçao: binario, Hexa, Complemento de 2, Portas Logicas em Verilog, Tabela Verdade e Soma de Produtos, Bitslice: Somador, Subtractor, Multiplicador, ALU, Raiz Quadrada, Mapas de Karnaugh, Minimizacao com Expresso e desenhos com Graphviz, Bitslice X + 3,X * 3, Comparador, Decodificadores, Multiplexadores, Priority Encoder, Latch, FlipFlop, Contadores e Shift, Memorias e Circuitos com memorias
+    * Sistemas de Numeraçao: binario, Hexa, Complemento de 2, Portas Logicas, Tabela Verdade
+    * Soma de Produtos, Bitslice: Somador, Subtractor, Multiplicador, ALU, Raiz Quadrada
+    * Mapas de Karnaugh, Minimizacao com Expresso e desenhos com Graphviz, Bitslice X + 3,X * 3, 
+    * Comparador, Decodificadores, Multiplexadores, Priority Encoder
+    * Latch, FlipFlop, Contadores e Shift, Memorias e Circuitos com memorias
 
 
 
